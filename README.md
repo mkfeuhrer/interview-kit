@@ -30,6 +30,7 @@ interview-kit/
 ├── behavioral/
 ├── resources/
 ├── README.md
+├── concepts/
 ```
 
 - `algorithms/`: Code and notes for sorting, searching, DP, etc.
@@ -38,6 +39,7 @@ interview-kit/
 - `go-patterns/`: Idiomatic Go code, concurrency, interfaces, etc.
 - `behavioral/`: Non-technical interview prep.
 - `resources/`: External links and references.
+- `concepts/`: Notes on algorithms, data structures, system design, behavioral, and HR.
 
 ---
 
