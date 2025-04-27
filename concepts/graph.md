@@ -1,4 +1,4 @@
-### Introduction to Graphs
+# Introduction to Graphs
 
 A graph is a non-linear data structure consisting of a set of vertices (or nodes) and a set of edges that connect pairs of vertices.
 
