@@ -1,4 +1,4 @@
-// Problem: https://leetcode.com/problems/reaching-points
+// Problem:
 
 #include <bits/stdc++.h>
 using namespace std;
